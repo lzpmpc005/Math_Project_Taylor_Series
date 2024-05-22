@@ -2,7 +2,7 @@
 
 This is the Group research project of Maths and Statistics (LZPMPC004) under the topic of "Taylor Series and Applications in ML".
 
-We mainly discussed what is the Taylor series, why do we use the Taylor series and implications of the Taylor series in Machine Learning and Deep Learning.
+We mainly discussed what is the Taylor series, why do we use it and its implications in Machine Learning and Deep Learning.
 
 We also implemented in python (jupyter notebook) of Taylor series' applications in function approximation and some machine learning use cases.
 
@@ -24,7 +24,7 @@ We also implemented in python (jupyter notebook) of Taylor series' applications 
 # Contribution
 
 - Hongtao Li
-  - Section 5-7 of report
+  - Report section 5-7
   - Python Implementation
 - Karina Bakhtiyarova
-  - Section 1-4 of report
+  - Report section 1-4
